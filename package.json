@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typescript": "^5.1.6"
+  },
+  "name": "co.de_typescript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatanferreira94/CO.DE_TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonatanferreira94/CO.DE_TypeScript/issues"
+  },
+  "homepage": "https://github.com/jhonatanferreira94/CO.DE_TypeScript#readme",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
